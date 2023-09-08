@@ -4,7 +4,7 @@ I'm a passionate software engineering student seeking an internship to apply my 
 <h1 align="center">Hi 👋, I'm Ayush Prakash</h1>
 <h3 align="center">A passionate  Web Developer, Software Developer and ML from India</h3>
 
-<img align="middle" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="cneter" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🌱 I’m currently learning **R, TensorFlow**
 
